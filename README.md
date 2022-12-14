@@ -3,3 +3,5 @@ Built a Todo list application with HTML/CSS/JS/BootStrap stack, it is a simple w
 
 I built this following Coding Curry's tutorial on Youtube. She teaches really well!
 
+https://nagfx.github.io/todolistwebapp/
+It is deployed here you can check it out.
